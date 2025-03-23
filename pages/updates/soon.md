@@ -1,7 +1,7 @@
 ---
 layout: base-markdown
 title: FedRAMP 20x
-tab-title: FedRAMP 202x
+tab-title: FedRAMP 20x
 permalink: /20x/
 summary: 
 ---
