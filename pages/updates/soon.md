@@ -6,7 +6,7 @@ permalink: /20x/
 summary: 
 ---
 
-FedRAMP 2025, FedRAMP 2026, FedRAMP 2027, FedRAMP 2028, FedRAMP 20...
+FedRAMP 2025, FedRAMP 2026, FedRAMP 2027, FedRAMP 202x, FedRAMP 203x ...
 
 ### FedRAMP 20x
 
