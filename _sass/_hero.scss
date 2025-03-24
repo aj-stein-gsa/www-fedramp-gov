@@ -3,12 +3,11 @@
 	background-position: 90% 0px;
 	background-size: cover;
 	background-color: $teal;
-	min-height: 22em;
+	min-height: 4em;
 	position: relative;
 	width: 100%;
-	background-image: url('../../assets/img/homepage-banner-desktop.jpg');
-	padding-top: 6rem;
-	padding-bottom: 4rem;
+	padding-top: 2rem;
+		padding-bottom: 1rem;
 	.usa-grid {
 		max-width: 1200px;
 		margin: 0 auto;
@@ -31,7 +30,6 @@
 		padding-left: 3rem;
 		padding-right: 3rem;
 		background-position: center;
-		background-image: url('../../assets/img/homepage-banner-tablet.jpg');
 	}
 }
 
@@ -41,7 +39,6 @@
 		padding-right: 2rem;
 		padding-top: 3rem;
 		background-position: center;
-		background-image: url('../../assets/img/homepage-banner-mobile.jpg');
 	}
 }
 

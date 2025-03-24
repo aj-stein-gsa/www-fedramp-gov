@@ -13,60 +13,9 @@ assigned:
         permalink: /updates/changelog/
         show_in_menu: true
         show_in_footer: false
-      - text: JAB Transition
-        href: updates/jab-transition.md
-        permalink: /updates/jab/
       - text: Requests for Comment
         href: updates/rfcs/rfcs.md
         permalink: /updates/rfcs/
-        show_in_menu: true
-        show_in_footer: false        
-      - text: Policy & Guidance Changes
-        href: updates/policy-and-guidance.md
-        permalink: /updates/policy-and-guidance/
-        show_in_menu: true
-        show_in_footer: false
-      - text: FedRAMP Pilots
-        href: updates/pilots.md
-        permalink: /updates/pilots/
-        show_in_menu: true
-        show_in_footer: false
-      - text: The FedRAMP Platform
-        href: updates/platform.md
-        permalink: /updates/platform/
-        show_in_menu: true
-        show_in_footer: false
-  - text: Get Authorized
-    show_in_menu: true
-    show_in_footer: false
-    sub:
-      - text: Program Basics
-        href: pages/program-basics.md
-        permalink: /program-basics/
-        show_in_menu: true
-        show_in_footer: false
-      - text: Agency Authorization
-        href: agency-authorization.md
-        permalink: /agency-authorization/
-        show_in_menu: true
-        show_in_footer: false
-  - text: Partners
-    show_in_menu: true
-    show_in_footer: false
-    sub:
-      - text: Cloud Service Providers
-        href: cloud-service-providers.md
-        permalink: /cloud-service-providers/
-        show_in_menu: true
-        show_in_footer: false
-      - text: Federal Agencies
-        href: projects/federal-agencies.md
-        permalink: /federal-agencies/
-        show_in_menu: true
-        show_in_footer: false
-      - text: Assessors
-        href: projects/assessors.md
-        permalink: /assessors/
         show_in_menu: true
         show_in_footer: false
       - text: Governance
@@ -74,13 +23,68 @@ assigned:
         permalink: /governance/
         show_in_menu: true
         show_in_footer: false
-  - text: Resources
+  - text: FedRAMP 20x
     show_in_menu: true
     show_in_footer: false
     sub:
+      - text: Goals
+        href: pages/20x/20x.md
+        permalink: /20x/
+        show_in_menu: true
+        show_in_footer: false
+      - text: Phase One
+        href: pages/20x/phase-one.md
+        permalink: /20x/phase-one/
+        show_in_menu: true
+        show_in_footer: false                  
+      - text: FAQs
+        href: pages/20x/faqs.md
+        permalink: /20x/faqs/
+        show_in_menu: true
+        show_in_footer: false        
+      - text: Engagement
+        href: pages/20x/engagement.md
+        permalink: /20x/engagement/
+        show_in_menu: true
+        show_in_footer: false          
+      - text: Community Working Groups
+        href: pages/20x/working-groups.md
+        permalink: /20x/working-groups/
+        show_in_menu: true
+        show_in_footer: false
+      - text: Rev 5 Continuous Monitoring
+        href: pages/20x/working-groups/cwg-rev5.md
+        permalink: /20x/working-groups/rev5-monitoring/
+        show_in_menu: true
+        show_in_footer: false
+      - text: Automating Assessments
+        href: pages/20x/working-groups/cwg-automation.md
+        permalink: /20x/working-groups/automation/
+        show_in_menu: true
+        show_in_footer: false
+      - text: Applying Existing Frameworks
+        href: pages/20x/working-groups/cwg-existing.md
+        permalink: /20x/working-groups/existing-frameworks/
+        show_in_menu: true
+        show_in_footer: false
+      - text: Continuous Reporting
+        href: pages/20x/working-groups/cwg-reporting.md
+        permalink: /20x/working-groups/reporting/
+        show_in_menu: true
+        show_in_footer: false
+
+  - text: Rev 5 Authorization
+    show_in_menu: true
+    show_in_footer: false
+    sub:
+      - text: Agency Authorization
+        href: pages/rev5/agency-authorization.md
+        permalink: /rev5/agency-authorization/
+        show_in_menu: true
+        show_in_footer: false
       - text: Documents & Templates
-        href: pages/policy-guidance.md
-        permalink: /documents-templates/
+        href: pages/rev5/policy-guidance.md
+        permalink: /rev5/documents-templates/
         show_in_menu: true
         show_in_footer: false
       - text: Help Center
@@ -88,33 +92,44 @@ assigned:
         show_in_menu: true
         show_in_footer: false
       - text: Training
-        href: pages/training.md
-        permalink: /training/
+        href: pages/rev5/training.md
+        permalink: /rev5/training/
         show_in_menu: true
         show_in_footer: false
-
       - text: Baselines
-        href: pages/baselines.md
-        permalink: /baselines/
+        href: pages/rev5/baselines.md
+        permalink: /rev5/baselines/
         show_in_menu: true
         show_in_footer: false
-
+      - text: FIPS Module Guidance
+        href: pages/rev5/cryptographic-module.md
+        permalink: /rev5/fips/
+        show_in_menu: true
+        show_in_footer: false              
       - text: Rev. 5 Transition
-        href: pages/rev5-transition.md
-        permalink: /rev5-transition/
+        href: pages/rev5/rev5-transition.md
+        permalink: /rev5/rev5-transition/
         show_in_menu: true
         show_in_footer: false
-      - text: Meet the Team
-        href: pages/team.md
-        permalink: /team/
+      - text: Cloud Service Providers
+        href: pages/rev5/cloud-service-providers.md
+        permalink: /rev5/cloud-service-providers/
         show_in_menu: true
         show_in_footer: false
-
+      - text: Federal Agencies
+        href: pages/rev5/federal-agencies.md
+        permalink: /rev5/federal-agencies/
+        show_in_menu: true
+        show_in_footer: false
+      - text: Assessors
+        href: pages/rev5/assessors.md
+        permalink: /rev5/assessors/
+        show_in_menu: true
+        show_in_footer: false
   - text: Marketplace
     is_external: https://marketplace.fedramp.gov
     show_in_menu: true
     show_in_footer: false
-
   - text: Dev Hub
     is_external: https://automate.fedramp.gov
     show_in_menu: true

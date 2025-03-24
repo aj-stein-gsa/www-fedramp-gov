@@ -918,8 +918,20 @@ a.partner-learn-more {
 	}
 }
 
-
-
+a.home-learn-more {
+	border: solid 1px #ffffff;
+	color: #ffffff;
+	border-radius: 30px;
+	padding: 10px 32px;
+	margin: 10px 0 0 0;
+	border-radius: 20px;
+	cursor: pointer;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 1.75rem;
+		font-weight: 400;
+	letter-spacing: .01em;
+}
 @media (min-width:1000px) and (max-width:1200px) {
 	.home-partners-icons {
 		width: 100%;
