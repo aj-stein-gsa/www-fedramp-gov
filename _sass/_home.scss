@@ -917,21 +917,6 @@ a.partner-learn-more {
 		color: $teal;
 	}
 }
-
-a.home-learn-more {
-	border: solid 1px #ffffff;
-	color: #ffffff;
-	border-radius: 30px;
-	padding: 10px 32px;
-	margin: 10px 0 0 0;
-	border-radius: 20px;
-	cursor: pointer;
-	text-transform: uppercase;
-	text-decoration: none;
-	font-size: 1.75rem;
-		font-weight: 400;
-	letter-spacing: .01em;
-}
 @media (min-width:1000px) and (max-width:1200px) {
 	.home-partners-icons {
 		width: 100%;
@@ -994,6 +979,32 @@ a.home-learn-more {
 			letter-spacing: .02em;
 			font-weight: 500;
 			margin: 20px 0 5px 0 !important;
+		}
+	}
+}
+
+p.home-learn-more {
+	margin: 10px 0;
+	cursor: pointer;
+
+	a {
+		border: solid 1px #ffffff;
+		border-radius: 30px;
+		border-radius: 20px;
+		padding: 10px 32px;
+		color: #ffffff;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-size: 1.75rem;
+		font-weight: 400;
+		letter-spacing: .01em;
+	}
+
+	@media (min-width:0) and (max-width:768px) {
+		text-align: center;
+
+		a {
+			font-size: 0.75rem;
 		}
 	}
 }
