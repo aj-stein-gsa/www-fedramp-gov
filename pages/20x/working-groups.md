@@ -54,7 +54,7 @@ space for contributors and information sharing but will not direct any work.
 
 PMO participants will have two roles in the working group:
 
-- **Community working group managers** are PMO participants responsible for
+- **Community Working Group Mediators** are PMO participants responsible for
   administrative tasks and connective tissue. They will:
 
   - Provide general working group facilitation, ensuring folks stay on track
