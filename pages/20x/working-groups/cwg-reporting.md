@@ -12,11 +12,16 @@ navigation:
     title: Target audience
 ---
 
-> This Community Working Group will launch on:
+> This Community Working Group will launch in a kickoff meeting on:
 >
-> **Thursday, April 10, 2025.**
+> **Thursday, April 10, 2025 from 1:00-1:30 ET**
 >
-> Details on how to participate will be posted shortly.
+> Register [here](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ) to attend.
+
+## Find us on GitHub
+Each working group has a GitHub repository where GitHub Discussions are open for public participation. 
+The Continuous Reporting repository can be found [here](https://github.com/FedRAMP/continuous-reporting-cwg).
+
 
 ## What You'll Work On {#what}
 
@@ -25,7 +30,7 @@ enforced, validated and reported continuously. In this future, CSPs will have a
 transparent, effective methodology for reporting overall risk posture and
 incident status via standard customer channels without FedRAMP in the middle.
 
-Continuous reporting consists of the following areas:
+Continuous reporting may involve the following areas:
 
 - **Data generation:** data is automatically generated from system components
   (CI/CD, monitoring agents, vulnerability scans, configurations, etc.)
@@ -36,7 +41,7 @@ Continuous reporting consists of the following areas:
   that reflect near-real time risk posture, enabling informed, risk based
   decision making
 
-The Reporting Continuously CWG will create a methodology that addresses the
+The Reporting Continuously CWG may explore developing a methodology that addresses the
 _who_, _what_, _when_, _where_ and _how_ for the above steps.
 
 ## Target Audience {#target}

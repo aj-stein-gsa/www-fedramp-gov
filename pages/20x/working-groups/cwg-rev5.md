@@ -12,11 +12,16 @@ navigation:
     title: Target audience
 ---
 
-> This Community Working Group will launch on:
+> This Community Working Group will launch in a kickoff meeting on:
 >
-> **Monday, March 31, 2025.**
+> **Monday, March 31, 2025 from 1:00-1:30 ET**
 >
-> Details on how to participate will be posted shortly.
+> Register [here](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw) to attend.
+
+## Find us on GitHub
+Each working group has a GitHub repository where GitHub Discussions are open for public participation. 
+The Rev5 Continuous Monitoring repository can be found [here](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg).
+
 
 ## What You'll Work On {#what}
 
@@ -27,13 +32,7 @@ will instead generate reports directly using their own automation systems
 against a simple standard, and then make those reports available to customers
 via normal channels.
 
-Your focus in this working group will be on developing a standard for continuous
-monitoring reporting by cloud service providers with FedRAMP Rev 5 (and those on
-legacy Rev 4) authorizations that meet the needs of agency security
-professionals to validate the risk posture of the CSO. Providers will no longer
-be expected to upload scan logs to a central service, but will instead develop
-simple standard reports to make directly available to customers via their
-partner portals.
+The focus of this working group will be on exploring standards for continuous monitoring reporting by cloud service providers with FedRAMP Rev 5 (and those on legacy Rev 4) authorizations that may meet the needs of agency security professionals to validate the risk posture of the CSO. Topics for discussion could include approaches where providers no longer need to upload scan logs to a central service, and could instead develop simple standard reports to make directly available to customers via their partner portals
 
 ## Target Audience {#target}
 

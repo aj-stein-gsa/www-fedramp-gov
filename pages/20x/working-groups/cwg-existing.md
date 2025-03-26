@@ -12,11 +12,17 @@ navigation:
     title: Target audience
 ---
 
-> This Community Working Group will launch on:
+> This Community Working Group will launch in a kickoff meeeting on:
 >
-> **Tuesday, April 8, 2025.**
+> **Tuesday, April 8, 2025. from 1:00-1:30 ET**
 >
-> Details on how to participate will be posted shortly.
+> Register [here](https://gsa.zoomgov.com/meeting/register/GqCzMb0NTKCA-4tCyQysxg) to attend.
+
+
+## Find us on GitHub
+Each working group has a GitHub repository where GitHub Discussions are open for public participation. 
+The Applying Existing Frameworks repository can be found [here](https://github.com/FedRAMP/applying-existing-frameworks-cwg).
+
 
 ## What You'll Work On {#what}
 
@@ -26,7 +32,7 @@ require us to think innovatively about how we leverage existing commercial
 frameworks. To the greatest extent possible, we want FedRAMP to rely on existing
 best practices and commercial security frameworks.
 
-Your focus in this working group will be to help us drive toward a world where
+The focus in this working group will be to help us drive toward a world where
 agencies can easily understand how a company’s existing commercial security
 frameworks can be used to make risk-based decisions in lieu of creating new
 materials for FedRAMP. By examining leading industry security standards, the
@@ -36,20 +42,20 @@ redundant compliance processes. The evaluation will focus on identifying
 frameworks with proven effectiveness, assessing their potential for direct
 application through a rigorous analysis of scalability, cloud environment
 adaptability, implementation simplicity, vendor-neutral design, and economic
-efficiency of adoption. It will also seek to understand any gaps between these
+efficiency of adoption. It may also seek to understand any gaps between these
 frameworks and FedRAMP requirements so that any additional tasks are focused
 only on those requirements not already met.
 
-The ultimate goal is to streamline the authorization pathway by implementing
+A potential outcome of this work is streamlining the authorization pathway by implementing
 commercial security approaches and standards in lieu of government-unique
 compliance mechanisms.
 
 Below is a list of activities to be accomplished by this CWG.
 
-- Identify commercial standards that have a risk posture appropriate for federal
+- Research commercial standards that have a risk posture appropriate for federal
   use
-- Identify gaps between commercial frameworks and current FISMA requirements
-- Investigate automation potential in framework application
+- Explore gaps between commercial frameworks and current FISMA requirements
+- Consider automation potential in framework application
  
 ## Target Audience {#target}
 

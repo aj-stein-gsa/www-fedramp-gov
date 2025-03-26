@@ -14,14 +14,23 @@ navigation:
     title: How to participate
 ---
 
-> **Community Working Groups will launch soon!**
+> Community Working Groups have launched! Register for each kickoff meeting using the links below:
+> - [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
+>  **Kickoff: March 31, 2025, from 1:00-1:30 PM ET**
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
+>- [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
+>  **Kickoff: April 2, 2025, from 1:00-1:30 PM ET**
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
+>- [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
+>  **Launch: April 8, 2025, from 1:00-1:30 PM ET**
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/GqCzMb0NTKCA-4tCyQysxg)
+>- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting): **Launch:
+>  April 10, 2025, from 1:00-1:30 PM ET**
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ)
 
 # FedRAMP's Community Working Groups
 
-FedRAMP is establishing Community Working Groups to provide the public with an
-opportunity to engage directly with FedRAMP experts and other public
-participants working on shared goals to create innovative solutions that meet
-FedRAMP standards and policies.
+FedRAMP is establishing Community Working Groups as a mechanism for industry and the public to engage directly with FedRAMP experts and share information while working on shared goals to create innovative solutions that meet FedRAMP standards and policies.
 
 These groups will serve two primary purposes:
 
@@ -49,8 +58,8 @@ methods.
 
 ## How We'll Work Together {#how}
 
-FedRAMP will in effect sponsor and host the working group to provide a neutral
-space for contributors and information sharing but will not direct any work.
+FedRAMP will help facilitate the exchange of information and efforts of the working group by providing a neutral space for contributors and information sharing but will not direct or manage any work.
+
 
 PMO participants will have two roles in the working group:
 
@@ -77,7 +86,7 @@ PMO participants will have two roles in the working group:
     sample code, etc. developed by participants of the working group where that
     work is public and contributions will remain in the public domain.
 
-Industry participants may choose to work in whatever fashion they choose, in
+Participants may choose to work in whatever fashion they choose, in
 public or in private. All activities proposed by FedRAMP will be informative,
 optional, and held in public.
 
@@ -92,24 +101,26 @@ and hold discussions to advance work products. All working group meetings will
 be held using Zoom, meeting schedules will be posted on public GitHub repos.
 
 - [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
-  **Launch: March 31, 2025**
+  **Kickoff: March 31, 2025, from 1:00-1:30 PM ET**
+  - [Register here](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
 - [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
-  **Launch: April 2, 2025**
+  **Kickoff: April 2, 2025, from 1:00-1:30 PM ET**
+  - [Register here](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
 - [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
-  **Launch: April 8, 2025**
+  **Launch: April 8, 2025, from 1:00-1:30 PM ET**
+  - [Register here](https://gsa.zoomgov.com/meeting/register/GqCzMb0NTKCA-4tCyQysxg)
 - [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting): **Launch:
-  April 10, 2025**
+  April 10, 2025, from 1:00-1:30 PM ET**
+  - [Register here](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ)
 
 ## How To Participate {#participate}
 
-How to sign up and join our meetings
+### How to sign up and join our meetings
 
-- No sign up! You can find the invites to each community working group meeting
-  in each working group's GitHub repository in the README.md in a .ics format, so you can add
-  it to your calendar as you see fit. Come as you please, all are welcome (although certain
-  working groups are better suited for different areas of expertise).
+- You can register for each community working group meeting via Zoom using the registration link found on the respective working group homepage. The registration link can also be found in each working group's GitHub repository in the README.md.
+- Come as you please, all are welcome (although certain working groups are better suited for different areas of expertise).
 
-How to participate and provide input asynchronously
+### How to participate and provide input asynchronously
 
 - We encourage all participation to take place in public, to maintain
   transparency and trust between participants. Therefore, we will be using
@@ -118,14 +129,10 @@ How to participate and provide input asynchronously
 
 - Each working group has a main GitHub repository:
 
-  - [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
-  **Launch: March 31, 2025**
-  - [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
-  **Launch: April 2, 2025**
-  - [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
-  **Launch: April 8, 2025**
-  - [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting): **Launch:
-  April 10, 2025**
+  - [Rev 5 Continuous Monitoring](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg)
+  - [Automating Assessments](https://github.com/FedRAMP/automating-assessment-cwg)
+  - [Applying Existing Frameworks](https://github.com/FedRAMP/applying-existing-frameworks-cwg)
+  - [Continuous Reporting](https://github.com/FedRAMP/continuous-reporting-cwg)
 
 - The project board and issues will be used to track goals and agendas.
 - Major decisions that take place during the CWG live meetings will have
