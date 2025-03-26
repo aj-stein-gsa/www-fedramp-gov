@@ -101,17 +101,13 @@ and hold discussions to advance work products. All working group meetings will
 be held using Zoom, meeting schedules will be posted on public GitHub repos.
 
 - [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
-  **Kickoff: March 31, 2025, from 1:00-1:30 PM ET**
-  - [Register here](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
+  - **Kickoff: March 31, 2025, from 1:00-1:30 PM ET**-- [Register here](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
 - [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
-  **Kickoff: April 2, 2025, from 1:00-1:30 PM ET**
-  - [Register here](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
+  - **Kickoff: April 2, 2025, from 1:00-1:30 PM ET**-- [Register here](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
 - [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
-  **Launch: April 8, 2025, from 1:00-1:30 PM ET**
-  - [Register here](https://gsa.zoomgov.com/meeting/register/GqCzMb0NTKCA-4tCyQysxg)
-- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting): **Launch:
-  April 10, 2025, from 1:00-1:30 PM ET**
-  - [Register here](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ)
+  - **Kickoff: April 8, 2025, from 1:00-1:30 PM ET**-- [Register here](https://gsa.zoomgov.com/meeting/register/GqCzMb0NTKCA-4tCyQysxg)
+- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
+  - **Kickoff: April 10, 2025, from 1:00-1:30 PM ET**-- [Register here](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ)
 
 ## How To Participate {#participate}
 
