@@ -1,33 +1,66 @@
-# Modern Team Template for Federalist
+# FedRAMP Websitep [https://www.fedramp.gov/](https://www.fedramp.gov/)
 
-This is a Jekyll site. It is a simple site to showcase the work of an organization with a few different page types.
+Welcome! This repository contains the source code for the **FedRAMP website**. The documentation provided in this README is meant to help your get an base understanding of the code that runs this website, along with how to get a local version up and running on your machine.
 
-This particular site is made for use with the [Federalist](https://github.com/18f/federalist) in mind.
+---
 
-This template uses the CSS and JavaScript from [U.S. Web Design System](https://designsystem.digital.gov/). To update the version of the system, [download the code](https://standards.usa.gov/getting-started/download/) from the website. Unzip the download and drop the entire folder (which should be named something like `uswds-1.1.0`) into `assets/vendor`.
+## Running the Website Locally  
 
-In your `_config.yml`, update the `wds-version` value to the new version number. This should match the version number in the name of the folder you just downloaded. In the case of our example, it would look like this: `wds-version: 1.1.0`. You'll need to restart your Jekyll server to see the new code take effect.
+This site is built using:  
+- [Jekyll](https://jekyllrb.com/), a static site generator
 
-## 18F Open Source Policy
+Follow the steps below to set up the site on your local machine.  
 
-This repository contains the official [Open Source Policy]([policy.md](https://18f.gsa.gov/open-source-policy/) of [18F](https://18f.gsa.gov/) (a digital delivery team within the [General Services Administration](http://gsa.gov)).
+### Prerequisites  
 
-**[Read 18F's Open Source Policy.](policy.md)**
+Before getting started, make sure you have the following installed:  
 
-### 18F Team Guidance
+1. **Git** – [Installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)  
+1. **Ruby** – Version specified in [.ruby-version](https://github.com/uswds/uswds-site/blob/main/.ruby-version) or [.tool-versions](https://github.com/uswds/uswds-site/blob/main/.tool-versions)  
+   - [Installation guide](https://www.ruby-lang.org/en/documentation/installation/)      
 
-For 18F team members, we have guidance on how 18F puts this policy into practice, and how we handle the narrow situations where we may delay or withhold the release of source code.
+---
 
-**[18F's open source team practices.](practice.md)**
+## Installation  
 
-### Credits
+1. **Clone the repository:**  
+   ```sh
+   git clone https://github.com/GSA/fedramp-gov.git
+   ```  
 
-This policy was originally forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy). Thanks also to [@benbalter](https://github.com/benbalter) for his [insights regarding CFPB's initial policy](http://ben.balter.com/2012/04/10/whats-missing-from-cfpbs-awesome-new-source-code-policy/).
+2. **Navigate into the project folder:**  
+   ```sh
+   cd fedramp-gov
+   ```  
 
-### Public domain
+3. **Install dependencies:**  
+   ```sh
+   bundle install
+   ```  
 
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
+4. **Start the local server:**  
+   ```sh
+   bundle exec jekyll serve
+   ```  
 
-> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
+5. **View the site in your browser:**  
+   Open [http://127.0.0.1:4000](http://127.0.0.1:4000) to see the site running locally.  
+
+
+## Deployment & Previews  
+
+The site is deployed using [cloud.gov Pages](https://cloud.gov/pages/).  
+- Changes pushed to the `main` branch will automatically update the live site.  
+- Public previews are generated for each branch pushed to GitHub.    
+
+---
+
+## Contributing  
+
+We welcome contributions! Please review our [contributing guidelines](CONTRIBUTING.md) before opening an issue or submitting a pull request. These guidelines cover our coding standards and best practices.  
+
+---
+
+### 🎉 Thanks for Supporting FedRAMP!  
+
+We appreciate your contributions to making digital services better and more accessible for everyone. 🚀 
