@@ -39,7 +39,7 @@ Start small, go big.
 This group should focus on outcomes, with multiple objectives. In order of
 priority, the objectives are to:
 
-1. Work on developing the FedRAMP 20x Key Security Indicators (KSIs).
+1. Explore Key Security Indicators (KSIs).
 
    - Key Security Indicators are straightforward, measurable and comparable
      translations of traditional controls. 
