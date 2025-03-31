@@ -1,4 +1,4 @@
-# FedRAMP Websitep [https://www.fedramp.gov/](https://www.fedramp.gov/)
+# FedRAMP Website [https://www.fedramp.gov/](https://www.fedramp.gov/)
 
 Welcome! This repository contains the source code for the **FedRAMP website**. The documentation provided in this README is meant to help your get an base understanding of the code that runs this website, along with how to get a local version up and running on your machine.
 
