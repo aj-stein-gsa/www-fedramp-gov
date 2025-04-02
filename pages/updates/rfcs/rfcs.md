@@ -9,13 +9,17 @@ summary:
 
 # Open FedRAMP Requests for Comment (RFCs)
 
-| ID           | Request for Comment On                                                                    | Description                                                                                                                                                                                               | Open                                                                                                | Close      |
-| ------------ | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| [0004](0004) | [Boundary Policy](0004)                                                                   | This draft policy opens discussion on clarifications for the documentation and assessment of the FedRAMP boundary and the reuse of FedRAMP authorized cloud service offerings by cloud service providers. | 2025-01-16                                                                                          | 2025-02-17 |
-| [0003](0003) | [Review Initiation Checks (RICs)](0003)                                                   | These optional checklists will help cloud service providers self-verify the completeness of FedRAMP authorization packages.                                                                               | 2024-12-26                                                                                          | 2025-02-07 |
-| Blog         | [Exploring new ways to scale FedRAMP]({{"2024-12-20-exploring-new-ways-to-scale-fedramp/" | relative_url}})                                                                                                                                                                                           | FedRAMP is in early discovery around the possibility of scaling operations with fees in the future. | 2024-12-20 | 2025-02-28 |
-| [0002](0002) | [Proposed Revisions to FedRAMP 3PAO Requirements](0002)                                   | FedRAMP is proposing revisions to six requirements and an appendix for the American Association for Laboratory Accreditation (A2LA) R311 requirements for 3PAOs.                                          | 2024-12-19                                                                                          | 2025-01-31 |
-| [0001](0001) | [A New Commment Process for FedRAMP](0001)                                                | Extended open discussion period for feedback on the pilot FedRAMP RFC process using GitHub.                                                                                                               | 2024-12-18                                                                                          | 2025-01-31 |
+There are currently no RFCs open for upcoming FedRAMP guidance.
+
+# Closed FedRAMP Requests for Comment (RFCs)
+
+| ID           | Request for Comment On                                                                    | Description                                                                                                                                                                                               | Closed                                                                                              |
+| ------------ | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------- |
+| [0004](0004) | [Boundary Policy](0004)                                                                   | This draft policy opens discussion on clarifications for the documentation and assessment of the FedRAMP boundary and the reuse of FedRAMP authorized cloud service offerings by cloud service providers. | 2025-04-02                                                                                          |
+| [0003](0003) | [Review Initiation Checks (RICs)](0003)                                                   | These optional checklists will help cloud service providers self-verify the completeness of FedRAMP authorization packages.                                                                               | 2025-04-02                                                                                          |
+| Blog         | [Exploring new ways to scale FedRAMP]({{"2024-12-20-exploring-new-ways-to-scale-fedramp/" | relative_url}})                                                                                                                                                                                           | FedRAMP is in early discovery around the possibility of scaling operations with fees in the future. | 2025-04-02 |
+| [0002](0002) | [Proposed Revisions to FedRAMP 3PAO Requirements](0002)                                   | FedRAMP is proposing revisions to six requirements and an appendix for the American Association for Laboratory Accreditation (A2LA) R311 requirements for 3PAOs.                                          | 2025-04-02                                                                                          |
+| [0001](0001) | [A New Commment Process for FedRAMP](0001)                                                | Extended open discussion period for feedback on the pilot FedRAMP RFC process using GitHub.                                                                                                               | 2025-04-02                                                                                          |
 
 # Background
 
@@ -42,14 +46,6 @@ way.
 
 ## How will FedRAMP request comments?
 
-FedRAMP will copy this repo to initiate an RFC for specific topics. All
-discussion and participation will take place in the copy, with the outcome
-merged into this repo when the RFC is closed.
-
-The copied repo will have [Discussions](https://docs.github.com/en/discussions)
-enabled and stakeholders are encouraged to create new discussions with your
-feedback and interact with feedback provided by others.
-
 FedRAMP will communicate to the public about open RFCs via its various social
 channels, including blogs, email lists, and more. Multiple RFCs may be run
 simultaneously by the team, and the
@@ -59,15 +55,10 @@ simultaneously by the team, and the
 
 There are multiple ways to provide feedback on a full RFC:
 
-- Participate in the Discussion
+- Participate in the Discussion in the rfcs repository on GitHub
 
 - Follow the instructions in the RFC to use alternative mechanisms for public
   feedback, such as online forms or email.
-
-- Suggest changes to a document by opening a pull request (you will need to fork
-  the repo first). The pull request must suggest one or more changes and
-  describe the rationale for the change(s). Pull requests will be treated as
-  comments.
 
 It is important that each bit of feedback is _concise_ and _actionable_,
 providing enough information to allow the document maintainers to adequately
