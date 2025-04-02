@@ -7,11 +7,20 @@ redirect_from: /changelog/
 summary:
 ---
 
+## April, 2025 (FY25 Q3)
+
+- 2025-04-02: Closed all open Requests for Comment. FedRAMP will review comments
+  and provide updates or take action as appropriate.
+
 ## March, 2025 (FY25 Q2)
 
-- 2025-03-21: GSA announces a new direction for FedRAMP, with significant changes to the website and [press engagement]({{"/20x/engagement/ | relative_url}}).
-- 2025-03-21: GSA announces [Community Working Groups]({{"/20x/working-groups/" | relative_url}}) to engage directly with FedRAMP experts and collaborate on innovative solutions and our [Phase One]({{"/20x/phase-one/" | relative_url}}) goals.
-
+- 2025-03-21: GSA announces a new direction for FedRAMP, with significant
+  changes to the website and [press
+  engagement]({{"/20x/engagement/ | relative_url}}).
+- 2025-03-21: GSA announces [Community Working
+  Groups]({{"/20x/working-groups/" | relative_url}}) to engage directly with
+  FedRAMP experts and collaborate on innovative solutions and our [Phase
+  One]({{"/20x/phase-one/" | relative_url}}) goals.
 
 ## January, 2025 (FY25 Q2)
 
