@@ -9,6 +9,8 @@ summary:
 
 ## April, 2025 (FY25 Q3)
 
+- 2025-04-07: Added top level Outcomes for all recently closed [Requests for
+  Comment]({{"/rfcs/" | relative_url}}).
 - 2025-04-02: Closed all open Requests for Comment. FedRAMP will review comments
   and provide updates or take action as appropriate.
 
@@ -16,7 +18,7 @@ summary:
 
 - 2025-03-21: GSA announces a new direction for FedRAMP, with significant
   changes to the website and [press
-  engagement]({{"/20x/engagement/ | relative_url}}).
+  engagement]({{"/20x/engagement/" | relative_url}}).
 - 2025-03-21: GSA announces [Community Working
   Groups]({{"/20x/working-groups/" | relative_url}}) to engage directly with
   FedRAMP experts and collaborate on innovative solutions and our [Phase
