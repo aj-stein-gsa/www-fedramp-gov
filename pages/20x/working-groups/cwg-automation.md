@@ -12,11 +12,9 @@ navigation:
     title: Target audience
 ---
 
-> This Community Working Group will launch in a kickoff meeting on:
+> This Community Working Group will host biweekly townhalls on Wednesdays from 1:00-1:30 PM ET starting on 4/16/2025:
 >
-> **Wednesday, April 2, 2025, from 1:00-1:30 ET**
->
-> Register [here](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ) to attend.
+> Register [here](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw) to attend.
 
 
 ## Find us on GitHub
