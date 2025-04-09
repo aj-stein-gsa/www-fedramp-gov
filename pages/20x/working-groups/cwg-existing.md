@@ -12,7 +12,7 @@ navigation:
     title: Target audience
 ---
 
-> This Community Working Group will host biweekly townhalls on Wednesdays from 1:00-1:30 PM ET starting on 4/16/2025:
+> This Community Working Group will host biweekly townhalls on Tuesdays from 1:00-1:30 PM ET starting on 4/22/2025:
 >
 > Register [here](INSERT LINK HERE) to attend.
 
