@@ -14,19 +14,19 @@ navigation:
     title: How to participate
 ---
 
-> Community Working Groups have launched! Register for each kickoff meeting using the links below:
+> Community Working Groups have launched! Register for meetings using the links below:
 > - [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
->  **Kickoff: March 31, 2025, from 1:00-1:30 PM ET**
->   - [Register here](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
+>  **Recurring townhall: biweekly on Mondays from 1:00-1:30 PM ET, starting on 4/14/2025**
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/4GRcLcoWTdWnSKQL2u3PWQ)
 >- [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
->  **Kickoff: April 2, 2025, from 1:00-1:30 PM ET**
->   - [Register here](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
+>  **Recurring townhall: biweekly on Wednesdays from 1:00-1:30 PM ET, starting on 4/16/2025**
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw)
 >- [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
->  **Launch: April 8, 2025, from 1:00-1:30 PM ET**
->   - [Register here](https://gsa.zoomgov.com/meeting/register/GqCzMb0NTKCA-4tCyQysxg)
->- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting): **Launch:
->  April 10, 2025, from 1:00-1:30 PM ET**
->   - [Register here](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ)
+>  **Recurring townhall: biweekly on Tuesdays from 1:00-1:30 PM ET, starting on 4/22/2025**
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ)
+>- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
+>  **Recurring townhall: biweekly on Thursdays from 1:00-1:30 PM ET, starting on 4/24/2025**
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/j-jCL-LLTi2uWTRMdrWBzw)
 
 # FedRAMP's Community Working Groups
 
@@ -48,13 +48,13 @@ continuously driving industry discussion on best practices and implementation
 methods.
 
 - [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
-  **Launch: March 31, 2025**
+  **Biweekly townhalls on Mondays from 1:00-1:30 PM ET starting on 4/14/2025**
 - [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
-  **Launch: April 2, 2025**
+  **Biweekly townhalls on Wednesdays from 1:00-1:30 PM ET starting on 4/16/2025**
 - [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
-  **Launch: April 8, 2025**
-- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting): **Launch:
-  April 10, 2025**
+  **Biweekly townhalls on Tuesdays from 1:00-1:30 PM ET starting on 4/22/2025**
+- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
+  **Biweekly townhalls on Thursdays from 1:00-1:30 PM ET starting on 4/24/2025**
 
 ## How We'll Work Together {#how}
 
@@ -101,13 +101,17 @@ and hold discussions to advance work products. All working group meetings will
 be held using Zoom, meeting schedules will be posted on public GitHub repos.
 
 - [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
-  - **Kickoff: March 31, 2025, from 1:00-1:30 PM ET**-- [Register here](https://gsa.zoomgov.com/meeting/register/m39vhY_hSl6YRBwwpRPdgw)
+  - **Kickoff: March 31, 2025, from 1:00-1:30 PM ET**
+  - Biweekly townhalls on Mondays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/4GRcLcoWTdWnSKQL2u3PWQ)
 - [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
-  - **Kickoff: April 2, 2025, from 1:00-1:30 PM ET**-- [Register here](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
+  - **Kickoff: April 2, 2025, from 1:00-1:30 PM ET**
+  - Biweekly townhalls on Wednesdays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw)
 - [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
-  - **Kickoff: April 8, 2025, from 1:00-1:30 PM ET**-- [Register here](https://gsa.zoomgov.com/meeting/register/GqCzMb0NTKCA-4tCyQysxg)
+  - **Kickoff: April 8, 2025, from 1:00-1:30 PM ET**
+  - Biweekly townhalls on Tuesdays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ)
 - [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
-  - **Kickoff: April 10, 2025, from 1:00-1:30 PM ET**-- [Register here](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ)
+  - **Kickoff: April 10, 2025, from 1:00-1:30 PM ET**
+  - Biweekly townhalls on Thursdays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/j-jCL-LLTi2uWTRMdrWBzw)
 
 ## How To Participate {#participate}
 
@@ -126,11 +130,17 @@ be held using Zoom, meeting schedules will be posted on public GitHub repos.
 - Each working group has a main GitHub repository:
 
   - [Rev 5 Continuous Monitoring](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg)
+    - [Discussions Board](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/discussions)
   - [Automating Assessments](https://github.com/FedRAMP/automating-assessment-cwg)
+    - [Discussions Board](https://github.com/FedRAMP/automating-assessment-cwg/discussions) 
   - [Applying Existing Frameworks](https://github.com/FedRAMP/applying-existing-frameworks-cwg)
+    - [Discussions Board](https://github.com/FedRAMP/applying-existing-frameworks-cwg/discussions) 
   - [Continuous Reporting](https://github.com/FedRAMP/continuous-reporting-cwg)
+    - [Discussions Board](https://github.com/FedRAMP/continuous-reporting-cwg/discussions) 
 
-- The project board and issues will be used to track goals and agendas.
+- Each working group posts links to the recordings of every meeting in their respective READMEs within 2 business days.
+- The majority of engagement will take place on GitHub Discussions.
+- The project board and issues may be used to track goals and agendas.
 - Major decisions that take place during the CWG live meetings will have
   a discussion assigned to them in GitHub, so that other parties can weigh
   in asynchronously.
