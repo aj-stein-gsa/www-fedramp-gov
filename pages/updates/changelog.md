@@ -9,6 +9,12 @@ summary:
 
 ## April, 2025 (FY25 Q3)
 
+- 2025-04-11: Clarified on the [About FedRAMP
+  Marketplace]({{"/about-marketplace/" | relative_url}}) page that FedRAMP
+  Authorized cloud service offerings without an active agency authorization to
+  operate (ATO) who continue to meet all ongoing continuous monitoring
+  activities while working to obtain a new ATO from a federal agency may remain
+  in the FedRAMP Marketplace as FedRAMP Authorized.
 - 2025-04-07: Added top level Outcomes for all recently closed [Requests for
   Comment]({{"/rfcs/" | relative_url}}).
 - 2025-04-02: Closed all open Requests for Comment. FedRAMP will review comments
