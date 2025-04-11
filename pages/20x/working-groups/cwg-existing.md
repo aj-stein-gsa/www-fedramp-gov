@@ -14,7 +14,7 @@ navigation:
 
 > This Community Working Group will host biweekly townhalls on Tuesdays from 1:00-1:30 PM ET starting on 4/22/2025:
 >
-> Register [here](INSERT LINK HERE) to attend.
+> [Register here](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ) to attend.
 
 
 ## Find us on GitHub
