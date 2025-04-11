@@ -23,10 +23,10 @@ navigation:
 >   - [Register here](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw)
 >- [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
 >  **Recurring townhall: biweekly on Tuesdays from 1:00-1:30 PM ET, starting on 4/22/2025**
->   - [Register here](INSERT LINK HERE)
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ)
 >- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
 >  **Recurring townhall: biweekly on Thursdays from 1:00-1:30 PM ET, starting on 4/24/2025**
->   - [Register here](INSERT LINK HERE)
+>   - [Register here](https://gsa.zoomgov.com/meeting/register/j-jCL-LLTi2uWTRMdrWBzw)
 
 # FedRAMP's Community Working Groups
 
@@ -108,10 +108,10 @@ be held using Zoom, meeting schedules will be posted on public GitHub repos.
   - Biweekly townhalls on Wednesdays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw)
 - [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
   - **Kickoff: April 8, 2025, from 1:00-1:30 PM ET**
-  - Biweekly townhalls on Tuesdays from 1:00-1:30 PM ET-- [Register here](INSERT LINK BEFORE MERGE)
+  - Biweekly townhalls on Tuesdays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ)
 - [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
   - **Kickoff: April 10, 2025, from 1:00-1:30 PM ET**
-  - Biweekly townhalls on Thursdays from 1:00-1:30 PM ET-- [Register here](INSERT LINK BEFORE MERGE)
+  - Biweekly townhalls on Thursdays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/j-jCL-LLTi2uWTRMdrWBzw)
 
 ## How To Participate {#participate}
 
