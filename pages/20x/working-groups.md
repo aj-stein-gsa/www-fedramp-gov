@@ -14,23 +14,35 @@ navigation:
     title: How to participate
 ---
 
-> Community Working Groups have launched! Register for meetings using the links below:
-> - [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
->  **Recurring townhall: biweekly on Mondays from 1:00-1:30 PM ET, starting on 4/14/2025**
->   - [Register here](https://gsa.zoomgov.com/meeting/register/4GRcLcoWTdWnSKQL2u3PWQ)
->- [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
->  **Recurring townhall: biweekly on Wednesdays from 1:00-1:30 PM ET, starting on 4/16/2025**
->   - [Register here](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw)
->- [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
->  **Recurring townhall: biweekly on Tuesdays from 1:00-1:30 PM ET, starting on 4/22/2025**
->   - [Register here](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ)
->- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
->  **Recurring townhall: biweekly on Thursdays from 1:00-1:30 PM ET, starting on 4/24/2025**
->   - [Register here](https://gsa.zoomgov.com/meeting/register/j-jCL-LLTi2uWTRMdrWBzw)
+> Community Working Groups have launched!
+>
+> - [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring)
+>   - Launched on March 31, ongoing collaboration in
+>     [GitHub Discussions here](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/discussions)
+>   - Biweekly recaps on Mondays from 1:00-1:30 PM ET,
+>     [register here](https://gsa.zoomgov.com/meeting/register/4GRcLcoWTdWnSKQL2u3PWQ)
+> - [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
+>   - Launched on April 2, ongoing collaboration in
+>     [GitHub Discussions here](https://github.com/FedRAMP/automating-assessment-cwg/discussions)
+>   - Biweekly recaps on Wednesdays from 1:00-1:30 PM ET,
+>     [register here](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw)
+> - [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
+>   - Launched on April 8, ongoing collaboration in
+>     [GitHub Discussions here](https://github.com/FedRAMP/applying-existing-frameworks-cwg/discussions)
+>   - Biweekly recaps on Tuesdays from 1:00-1:30 PM ET,
+>     [register here](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ)
+> - [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
+>   - Launched on April 10, ongoing collaboration in
+>     [GitHub Discussions here](https://github.com/FedRAMP/continuous-reporting-cwg/discussions)
+>   - Biweekly recaps on Thursdays from 1:00-1:30 PM ET,
+>     [register here](https://gsa.zoomgov.com/meeting/register/j-jCL-LLTi2uWTRMdrWBzw)
 
 # FedRAMP's Community Working Groups
 
-FedRAMP is establishing Community Working Groups as a mechanism for industry and the public to engage directly with FedRAMP experts and share information while working on shared goals to create innovative solutions that meet FedRAMP standards and policies.
+FedRAMP is establishing Community Working Groups as a mechanism for industry and
+the public to engage directly with FedRAMP experts and share information while
+working on shared goals to create innovative solutions that meet FedRAMP
+standards and policies.
 
 These groups will serve two primary purposes:
 
@@ -47,19 +59,32 @@ FedRAMP 20x. They are focused on driving collaboration on shared goals and
 continuously driving industry discussion on best practices and implementation
 methods.
 
-- [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
-  **Biweekly townhalls on Mondays from 1:00-1:30 PM ET starting on 4/14/2025**
+- [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring)
+  - Launched on March 31, ongoing collaboration in
+    [GitHub Discussions here](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/discussions)
+  - Biweekly recaps on Mondays from 1:00-1:30 PM ET,
+    [register here](https://gsa.zoomgov.com/meeting/register/4GRcLcoWTdWnSKQL2u3PWQ)
 - [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
-  **Biweekly townhalls on Wednesdays from 1:00-1:30 PM ET starting on 4/16/2025**
+  - Launched on April 2, ongoing collaboration in
+    [GitHub Discussions here](https://github.com/FedRAMP/automating-assessment-cwg/discussions)
+  - Biweekly recaps on Wednesdays from 1:00-1:30 PM ET,
+    [register here](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw)
 - [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
-  **Biweekly townhalls on Tuesdays from 1:00-1:30 PM ET starting on 4/22/2025**
+  - Launched on April 8, ongoing collaboration in
+    [GitHub Discussions here](https://github.com/FedRAMP/applying-existing-frameworks-cwg/discussions)
+  - Biweekly recaps on Tuesdays from 1:00-1:30 PM ET,
+    [register here](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ)
 - [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
-  **Biweekly townhalls on Thursdays from 1:00-1:30 PM ET starting on 4/24/2025**
+  - Launched on April 10, ongoing collaboration in
+    [GitHub Discussions here](https://github.com/FedRAMP/continuous-reporting-cwg/discussions)
+  - Biweekly recaps on Thursdays from 1:00-1:30 PM ET,
+    [register here](https://gsa.zoomgov.com/meeting/register/j-jCL-LLTi2uWTRMdrWBzw)
 
 ## How We'll Work Together {#how}
 
-FedRAMP will help facilitate the exchange of information and efforts of the working group by providing a neutral space for contributors and information sharing but will not direct or manage any work.
-
+FedRAMP will help facilitate the exchange of information and efforts of the
+working group by providing a neutral space for contributors and information
+sharing but will not direct or manage any work.
 
 PMO participants will have two roles in the working group:
 
@@ -74,8 +99,8 @@ PMO participants will have two roles in the working group:
     to spark general discussion around a topic to see individual opinions and
     responses.
 
-- **FedRAMP Advocates** are PMO participants engaging with the CWGs and advocating for
-  FedRAMP in them, with a focus on technical content. They will:
+- **FedRAMP Advocates** are PMO participants engaging with the CWGs and
+  advocating for FedRAMP in them, with a focus on technical content. They will:
   - Answer questions related to how FedRAMP’s standards and policies can best be
     informed by the activities performed in the working group.
   - Clarify FedRAMP’s goals and objectives related to the development of
@@ -86,9 +111,9 @@ PMO participants will have two roles in the working group:
     sample code, etc. developed by participants of the working group where that
     work is public and contributions will remain in the public domain.
 
-Participants may choose to work in whatever fashion they choose, in
-public or in private. All activities proposed by FedRAMP will be informative,
-optional, and held in public.
+Participants may choose to work in whatever fashion they choose, in public or in
+private. All activities proposed by FedRAMP will be informative, optional, and
+held in public.
 
 ## How We'll Communicate {#communicate}
 
@@ -96,29 +121,21 @@ FedRAMP will create a public GitHub repository for shared work products. This
 repository will serve as a communication hub and documentation repository, and
 will be a space for the working group to advance work products between meetings.
 
-Community working groups will meet regularly to discuss progress against objectives
-and hold discussions to advance work products. All working group meetings will
-be held using Zoom, meeting schedules will be posted on public GitHub repos.
-
-- [Rev 5 Continuous Monitoring]({{site.baseurl}}/20x/working-groups/rev5-monitoring):
-  - **Kickoff: March 31, 2025, from 1:00-1:30 PM ET**
-  - Biweekly townhalls on Mondays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/4GRcLcoWTdWnSKQL2u3PWQ)
-- [Automating Assessments]({{site.baseurl}}/20x/working-groups/automation):
-  - **Kickoff: April 2, 2025, from 1:00-1:30 PM ET**
-  - Biweekly townhalls on Wednesdays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw)
-- [Applying Existing Frameworks]({{site.baseurl}}/20x/working-groups/existing-frameworks):
-  - **Kickoff: April 8, 2025, from 1:00-1:30 PM ET**
-  - Biweekly townhalls on Tuesdays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/hoS2UdAiRROMyqPPlcbVfQ)
-- [Continuous Reporting]({{site.baseurl}}/20x/working-groups/reporting):
-  - **Kickoff: April 10, 2025, from 1:00-1:30 PM ET**
-  - Biweekly townhalls on Thursdays from 1:00-1:30 PM ET-- [Register here](https://gsa.zoomgov.com/meeting/register/j-jCL-LLTi2uWTRMdrWBzw)
+Community working groups will meet regularly to discuss progress against
+objectives and hold discussions to advance work products. All working group
+meetings will be held using Zoom, meeting schedules will be posted on public
+GitHub repos.
 
 ## How To Participate {#participate}
 
 ### How to sign up and join our meetings
 
-- You can register for each community working group meeting via Zoom using the registration link found on the respective working group homepage. The registration link can also be found in each working group's GitHub repository in the README.md.
-- Come as you please, all are welcome (although certain working groups are better suited for different areas of expertise).
+- You can register for each community working group meeting via Zoom using the
+  registration link found on the respective working group homepage. The
+  registration link can also be found in each working group's GitHub repository
+  in the README.md.
+- Come as you please, all are welcome (although certain working groups are
+  better suited for different areas of expertise).
 
 ### How to participate and provide input asynchronously
 
@@ -132,17 +149,18 @@ be held using Zoom, meeting schedules will be posted on public GitHub repos.
   - [Rev 5 Continuous Monitoring](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg)
     - [Discussions Board](https://github.com/FedRAMP/rev5-continuous-monitoring-cwg/discussions)
   - [Automating Assessments](https://github.com/FedRAMP/automating-assessment-cwg)
-    - [Discussions Board](https://github.com/FedRAMP/automating-assessment-cwg/discussions) 
+    - [Discussions Board](https://github.com/FedRAMP/automating-assessment-cwg/discussions)
   - [Applying Existing Frameworks](https://github.com/FedRAMP/applying-existing-frameworks-cwg)
-    - [Discussions Board](https://github.com/FedRAMP/applying-existing-frameworks-cwg/discussions) 
+    - [Discussions Board](https://github.com/FedRAMP/applying-existing-frameworks-cwg/discussions)
   - [Continuous Reporting](https://github.com/FedRAMP/continuous-reporting-cwg)
-    - [Discussions Board](https://github.com/FedRAMP/continuous-reporting-cwg/discussions) 
+    - [Discussions Board](https://github.com/FedRAMP/continuous-reporting-cwg/discussions)
 
-- Each working group posts links to the recordings of every meeting in their respective READMEs within 2 business days.
+- Each working group posts links to the recordings of every meeting in their
+  respective READMEs within 2 business days.
 - The majority of engagement will take place on GitHub Discussions.
 - The project board and issues may be used to track goals and agendas.
-- Major decisions that take place during the CWG live meetings will have
-  a discussion assigned to them in GitHub, so that other parties can weigh
-  in asynchronously.
+- Major decisions that take place during the CWG live meetings will have a
+  discussion assigned to them in GitHub, so that other parties can weigh in
+  asynchronously.
 - Deliverables, decision records, etc. will go through a PR process, wherein
   participants may review and provide feedback.
