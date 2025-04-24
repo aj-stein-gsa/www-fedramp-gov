@@ -9,7 +9,12 @@ summary:
 
 # Open FedRAMP Requests for Comment (RFCs)
 
-There are currently no RFCs open for upcoming FedRAMP guidance.
+
+| ID                                                     | Request for Comment On                                                                     | Description                                                                                                                                                                                                                                                                                                                                                                          | Opened     | Closing    |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- |
+| [0007](0007) | [Significant Change Notification Standard](0007) | FedRAMP intends to replace the previous Significant Change Request process with an updated Significant Change Notification standard. The process asserts authorizations granted to cloud service providers include the authority to make changes that are in the best interest of agency customers without asking permission from an authorizing official in advance, in most cases. | 2025-04-24 | 2025-05-25 |
+| [0006](0006) | [20x Phase One Key Security Indicators](0006)    | In FedRAMP 20x, Key Security Indicators summarize the security capabilities expected of cloud-native service offerings to meet FedRAMP Low authorization requirements.                                                                                                                                                                                                               | 2025-04-24 | 2025-05-25 |
+| [0005](0005) | [Minimum Assessment Scope](0005)                 | The FedRAMP Minimum Assessment Scope Standard is an updated approach to determining what is included in a FedRAMP assessment and authorization. The approach avoids the unnecessary detail to support FedRAMP’s ongoing shift from compliance-based to security-based decision making and assessment.                                                                                | 2025-04-24 | 2025-05-25 |
 
 # Closed FedRAMP Requests for Comment (RFCs)
 
