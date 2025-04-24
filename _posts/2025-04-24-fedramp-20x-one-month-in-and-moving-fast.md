@@ -26,7 +26,7 @@ and what we’ll be focusing on next\!
 ### Delivering Authorizations
 
 Our review team keeps working through final reviews of third-party assessment
-organizations (3PAO) recommended and agency authorized FedRAMP packages to get
+organization recommended and agency authorized FedRAMP packages to get
 secure services into the
 [FedRAMP Marketplace](https://marketplace.fedramp.gov/products):
 
