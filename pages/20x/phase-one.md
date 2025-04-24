@@ -100,7 +100,7 @@ Pilot submissions might indicate which of their KSI Validations can be reported 
 
 Preferably, this indication would appear in the machine-readable data format, and would include meta-data of where and when the evidence was collected.
 
-## Step Five: 3PAO Review
+### Step Five: 3PAO Review
 
 All 20x packages would be reviewed by a 3PAO prior to submission.
 
