@@ -152,7 +152,7 @@ In FedRAMP 20x, Key Security Indicators summarize the security capabilities
 expected of cloud-native service offerings to meet FedRAMP Low authorization
 requirements.
 
-[RFC-0006 Key Security Indicators proposes initial indicators for the 20x Phase One pilot and is open for public comment through May 25, 2025]({{"/updates/rfcs/0006" | relative_url}}).
+[RFC-0006 Key Security Indicators proposes initial indicators for the 20x Phase One pilot and is open for public comment through May 25, 2025]({{"/updates/rfcs/0006/" | relative_url}}).
 
 ### Significant change is afoot:
 
@@ -163,7 +163,7 @@ changes that are in the best interest of agency customers without asking
 permission from an authorizing official in advance, in most cases.
 
 [RFC-0007 Significant Change Notification Standard is open for public comment
-through May 25, 2025.]({{"/updates/rfcs/0007" | relative_url}})
+through May 25, 2025.]({{"/updates/rfcs/0007/" | relative_url}})
 
 ### Shifting perspectives on what used to be the FedRAMP Boundary:
 
@@ -173,7 +173,7 @@ approach avoids the unnecessary detail to support FedRAMP’s ongoing shift from
 compliance-based to security-based decision making and assessment.
 
 [RFC-0005 Minimum Assessment Scope Standard is open for public comment through
-May 25, 2025]({{"/updates/rfcs/0007" | relative_url}}).
+May 25, 2025]({{"/updates/rfcs/0007/" | relative_url}}).
 
 ---
 
