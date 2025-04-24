@@ -8,7 +8,7 @@ layout: blog-page
 ---
 
 Exactly one month ago today GSA announced
-[FedRAMP 20x](https://www.fedramp.gov/2025-03-24-FedRAMP-in-2025/), an
+[FedRAMP 20x]({{"/2025-03-24-FedRAMP-in-2025" | relative_url}}), an
 initiative to rapidly modernize FedRAMP in continuous collaboration with
 industry stakeholders and federal agency experts. The concept emphasizes
 security over compliance and encourages private innovation to provide the
@@ -51,7 +51,7 @@ We are constantly supporting our stakeholders and community:
   industry trade groups including the Alliance for Digital Innovation, Cloud
   Service Providers \- Advisory Board, and Business Software Alliance
 - Launched
-  [community working groups](https://www.fedramp.gov/20x/working-groups/),
+  [community working groups]({{"/20x/working-groups" | relative_url}}),
   hosted eight public meetings with well over a thousand unique attendees, and
   participated in 100+ active discussions in the working group discussion forums
 - Discussed FedRAMP’s progress and goals with minority and majority
@@ -92,7 +92,7 @@ We are constantly supporting our stakeholders and community:
 Every day the team is driving incremental but continuous progress:
 
 - Posted three proposed standards for public comment via our
-  [FedRAMP Request for Comment](https://fedramp.gov/rfcs) process
+  [FedRAMP Request for Comment]({{"/updates/rfcs" | relative_url}}) process
 - Determined that FedRAMP authorized cloud services that lose their only agency
   ATO will
   [maintain FedRAMP authorization](https://www.fedramp.gov/about-marketplace/#:~:text=Provision%20for%20Authorized%20Service%20Offerings%20that%20Lose%20Their%20Only%20ATO%20on%20File)
@@ -104,17 +104,17 @@ Every day the team is driving incremental but continuous progress:
   comment and changes to the operating environment
 - Developed a new draft standard to address devastating bottlenecks with
   significant change requests informed by stakeholder feedback and the
-  [Rev 5 Continuous Monitoring Working Group](https://www.fedramp.gov/20x/working-groups/rev5-monitoring/)
+  [Rev 5 Continuous Monitoring Working Group]({{"20x/working-groups/rev5-monitoring/" | relative_url}})
 - Prepared a draft standard to demonstrate FedRAMP 20x with explicit criteria
   for achieving an automated FedRAMP Low authorization, informed by the
-  [Automating Assessments Working Group](https://www.fedramp.gov/20x/working-groups/automation/)
+  [Automating Assessments Working Group]({{"20x/working-groups/automation/" | relative_url}})
   discussions
 - Finalized eligibility criteria for the
-  [first 20x pilots](https://www.fedramp.gov/20x/phase-one/) informed by
+  [first 20x pilots]({{"20x/phase-one" | relative_url}}) informed by
   stakeholder feedback
 - Explored leveraging existing industry-standard frameworks to meet FedRAMP 20x
   requirements in the
-  [Applying Existing Frameworks Working Group](https://www.fedramp.gov/20x/working-groups/existing-frameworks/)
+  [Applying Existing Frameworks Working Group]({{"20x/working-groups/existing-frameworks/" | relative_url}})
 
 ### Supporting GSA’s AI Priorities
 
@@ -146,13 +146,13 @@ receive a 12-month FedRAMP Low authorization and will be prioritized for FedRAMP
 Moderate authorization in Phase Two. Federal agency sponsors are not required to
 participate in Phase One.
 
-[Learn more about FedRAMP 20x Phase One here](https://www.fedramp.gov/20x/phase-one/).
+[Learn more about the FedRAMP 20x Phase One pilot here]({{"/20x/phase-one" | relative_url}}).
 
 In FedRAMP 20x, Key Security Indicators summarize the security capabilities
 expected of cloud-native service offerings to meet FedRAMP Low authorization
 requirements.
 
-[RFC-0006 Key Security Indicators proposes initial indicators for the 20x Phase One pilot and is open for public comment through May 25, 2025](https://fedramp.gov/updates/rfcs/0006).
+[RFC-0006 Key Security Indicators proposes initial indicators for the 20x Phase One pilot and is open for public comment through May 25, 2025]({{"/updates/rfcs/0006" | relative_url}}).
 
 ### Significant change is afoot:
 
@@ -162,8 +162,8 @@ authorizations granted to cloud service providers include the authority to make
 changes that are in the best interest of agency customers without asking
 permission from an authorizing official in advance, in most cases.
 
-RFC-0007 Significant Change Notification Standard is open for public comment
-through May 25, 2025\.
+[RFC-0007 Significant Change Notification Standard is open for public comment
+through May 25, 2025.]({{"/updates/rfcs/0007" | relative_url}})
 
 ### Shifting perspectives on what used to be the FedRAMP Boundary:
 
@@ -172,8 +172,8 @@ determining what is included in a FedRAMP assessment and authorization. The
 approach avoids the unnecessary detail to support FedRAMP’s ongoing shift from
 compliance-based to security-based decision making and assessment.
 
-RFC-0005 Minimum Assessment Scope Standard is open for public comment through
-May 25, 2025.
+[RFC-0005 Minimum Assessment Scope Standard is open for public comment through
+May 25, 2025]({{"/updates/rfcs/0007" | relative_url}}).
 
 ---
 
@@ -192,6 +192,6 @@ expectations and will continue to demonstrate our commitment through
 collaboration with stakeholders and continuous incremental delivery.
 
 To have your voice heard about changes to the program, review and comment on our
-[RFCs](https://www.fedramp.gov/updates/rfcs/), join the discussion in our
-[community working groups](https://www.fedramp.gov/20x/working-groups/), and
-consider participating in our FedRAMP 20x Phase One pilot.
+[RFCs]({{"/updates/rfcs/" | relative_url}}), join the discussion in our
+[community working groups]({{"/20x/working-groups/" | relative_url}}), and
+consider participating in our [FedRAMP 20x Phase One pilot]({{"/20x/phase-one" | relative_url}}).
