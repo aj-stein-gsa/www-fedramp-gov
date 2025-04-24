@@ -157,7 +157,7 @@ requirements.
 ### Significant change is afoot:
 
 FedRAMP intends to replace the previous Significant Change Request process with
-an updated Significant Change Notification standard. The process asserts
+an updated Significant Change Notification standard. The update asserts
 authorizations granted to cloud service providers include the authority to make
 changes that are in the best interest of agency customers without asking
 permission from an authorizing official in advance, in most cases.
@@ -169,7 +169,7 @@ through May 25, 2025.]({{"/rfcs/0007" | relative_url}})
 
 The FedRAMP Minimum Assessment Scope Standard is an updated approach to
 determining what is included in a FedRAMP assessment and authorization. The
-approach avoids the unnecessary detail to support FedRAMP’s ongoing shift from
+approach avoids unnecessary detail to support FedRAMP’s ongoing shift from
 compliance-based to security-based decision making and assessment.
 
 [RFC-0005 Minimum Assessment Scope Standard is open for public comment through
@@ -184,10 +184,10 @@ loss of many in our wider community that have been a part of the program for
 over a decade. As circumstances and priorities change across the government, our
 attrition rate is lower than anticipated a month ago. We said goodbye to many
 people this month, including four federal staff and 26 contracted security
-reviewers who have supported FedRAMP for many years and recently completed a
+reviewers who supported FedRAMP for many years and recently completed a
 record-breaking three month review marathon that exceeded expectations.
 
-Our team still has sufficient resources to deliver against FedRAMP 20x
+Our team still has the right folks to deliver against FedRAMP 20x
 expectations and will continue to demonstrate our commitment through
 collaboration with stakeholders and continuous incremental delivery.
 
