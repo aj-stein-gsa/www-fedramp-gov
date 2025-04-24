@@ -10,6 +10,7 @@ summary:
 ## April, 2025 (FY25 Q3)
 
 - 2025-04-24: Added new Requests for Comment and other content:
+  - [New Blog Post: FedRAMP 20x: One Month In and Moving Fast]({{"/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/" | relative_url}})
   - [Updated 20x Phase One]({{"/20x/phase-one" | relative_url}}) with Phase One Pilot information
   - [RFC-0005 Minimum Assessment Scope Standard]({{"/rfcs/0005" | relative_url}})
   - [RFC-0006 20x Phase One Key Security Indicators]({{"/rfcs/0006" | relative_url}})

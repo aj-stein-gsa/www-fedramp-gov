@@ -1,5 +1,5 @@
 ---
-title: FedRAMP in 2025
+title: FedRAMP 20x - One Month In and Moving Fast
 permalink: /2025-04-24-fedramp-20x-one-month-in-and-moving-fast/
 body-class: page-blog
 image: /assets/img/blog-images/2025-04-24-fedramp-20x-one-month-in-and-moving-fast.png
