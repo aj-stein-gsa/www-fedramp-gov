@@ -9,7 +9,8 @@ summary:
 
 ## April, 2025 (FY25 Q3)
 
-- 2025-04-24: Added new Requests for Comment and an updated Blog post:
+- 2025-04-24: Added new Requests for Comment and other content:
+  - [Updated 20x Phase One]({{"/20x/phase-one" | relative_url}}) with Phase One Pilot information
   - [RFC-0005 Minimum Assessment Scope Standard]({{"/rfcs/0005" | relative_url}})
   - [RFC-0006 20x Phase One Key Security Indicators]({{"/rfcs/0006" | relative_url}})
   - [RFC-0007 Significant Change Notification Standard]({{"/rfcs/0007" | relative_url}})    
