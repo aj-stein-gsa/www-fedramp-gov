@@ -5,116 +5,115 @@ tab-title: FedRAMP 20x - Phase One
 permalink: /20x/phase-one/
 body-class: page-training
 navigation:
-  - id: phase1goal
-    title: Phase 1 Goal
-  - id: phase1eligibility
-    title: Phase 1 Eligibility
-  - id: howitworks
-    title: How it will work
-  - id: agencies
-    title: How it helps agencies
+  - id: pilot
+    title: Phase One Pilot
+  - id: who
+    title: Who Should Participate?
+  - id: how
+    title: How to Participate
+  - id: example
+    title: Example Participant Experience
 ---
 
-## Phase 1 Goal {#phase1goal}
+# FedRAMP 20x Phase One Pilot {#pilot}
 
-A cloud-native continuous security assessment that’s as simple as your cloud
-service offering - or as complex as needed. Meet federal security requirements
-and get authorized in weeks.
+The FedRAMP 20x Phase One pilot tests how cloud service providers can meet FedRAMP Low authorization requirements using a combination of automated technical validation, existing commercial certification, and simple documentation requirements to generate machine-readable packages that can be assessed by trusted third parties. 
 
-- No more unnecessary or duplicative paperwork; bring your existing security
-  certifications
-- Quick and easy compliance for simple environments; click and go
-- Automated continuous assessment by widely available commercial tools; improve
-  your products without asking for permission
-- Requirements that are easy to understand, flexible, and easy to implement;
-  just show them to your engineers
-- Make your own business decisions about what to implement; federal agency
-  customers make their own choices based on your decisions
-- No agency sponsor required; just secure your systems and get ready
-- FedRAMP High will initially stay with the current manual process, but will
-  benefit from continuous automation improvements until it is covered under the
-  new process in following phases
+At the end of Phase One, we expect to understand:
 
-## Phase 1 Eligibility {#phase1eligibility}
+- The extent of validation capabilities for a simple cloud-native service provider
+- Functional elements of a high quality machine-readable validation and assessment package
+- How PaaS/IaaS cloud services might support customer validation and assessment
+- How third party compliance tools might support customer validation and assessment
+- How materials created for a SOC 2 Type 2 Audit might reduce the documentation burden
+- How 3PAOs might leverage machine-readable packages with primarily automated validations for assessment
 
-FedRAMP 20x reimagines security assessment for cloud service offerings, starting
-with the simplest of environments where security can be built in with a few
-simple changes. It will grow to include additional use cases until all modern
-cloud services are covered.
+Qualifying cloud service offerings that successfully complete Phase One will receive a 12 month FedRAMP Low authorization and will be prioritized for FedRAMP Moderate authorization in Phase Two. Federal agency sponsors are welcome but are not required to participate in Phase One. 
 
-For Phase 1, Software-as-a-Service offerings that meet the following
-requirements are eligible:
+## Who should participate? {#who}
 
-- Deployed on an existing FedRAMP Authorized cloud service offering using
-  entirely or primarily cloud-native services
-- Minimal or no third party cloud interconnections; all services handling
-  federal information must be FedRAMP Authorized
-- Service is provided only via the web (browser and/or APIs)
-- Offering supports a few standard customer configured features needed by
-  federal agencies (or you’re willing to build that capability quickly)
-- Existing adoption of commercial security frameworks are a plus (SOC 2, ISO
-  27000, CIS Controls, HITRUST, etc.)
+The FedRAMP 20x Phase One pilot is open to the public. FedRAMP anticipates interest from many parties and encourages participants to self-organize based on established relationships between cloud service providers, host service providers, third party services, and independent assessment organizations.
 
-_Full details on eligibility requirements to be added during development. Phase
-2+ will expand eligibility based on the success of Phase 1._
+Cloud service providers that meet the following criteria are most likely to qualify for a FedRAMP Low authorization during Phase One:
 
-## How It Will Work {#howitworks}
+-   Deployed on an existing FedRAMP authorized cloud service offering
+	-   Using primarily cloud-native services from the host provider
+	-   Using only FedRAMP authorized external services
+-   Service is provided only via the public internet (browser and/or APIs)
+-   Has completed a SOC 2 Type 2 audit or federal agency ATO process within the last 12 months
+-   Has a 3PAO ready to conduct a pilot 20x assessment informed by the Key Security Indicators
 
-FedRAMP 20x broadly groups security requirements into two categories,
-**Documentation** and **Automated Validations.**
+## How to Participate {#how}
 
-**Documentation** requirements expect companies to write down their business
-processes and explain how they follow them to keep federal information safe.
+The FedRAMP 20x Phase One pilot will be coordinated in public across FedRAMP’s Community Working Groups:
 
-- Review the documentation requirements and determine which controls you are
-  willing to meet and how you will meet them. You can make your own or just
-  accept the specific requirements provided by FedRAMP.
-- If you use an existing commercial security framework, you will provide those
-  materials where they overlap with FedRAMP’s documentation requirements.
-- For Example: The Security & Privacy Policy requirement calls for documenting a
-  business process to provide role-based training to staff on security
-  practices. To produce evidence of this requirement, you may either:
-  - Include your current policy on employee security training
-  - Accept and implement FedRAMP’s or CISA’s guidance on training expectations
-  - Include existing commercial security assessment materials that demonstrate
-    relevant staff education and training processes
+- [Automating Assessment]({{"/20x/working-groups/automation" | relative_url}})
+- [Applying Existing Frameworks]({{"/20x/working-groups/existing-frameworks" | relative_url}})
+- [Continuous Reporting]({{"/20x/working-groups/reporting" | relative_url}})
 
-**Automated Validations** includes requirements and expectations for either the
-host infrastructure or a compliance service can provide automated technical
-validations that the infrastructure is configured securely. Configurations can
-be automatically reviewed continuously or even directly enforced by the host
-infrastructure.
+Participants may self organize and/or cooperate based on mutually desired outcomes. FedRAMP will provide support and clarification during the pilot about whether proposed solutions may or may not meet Key Security Indicators to inform participants. 
 
-- Review the technical requirements and determine which you are willing to meet.
-- Make the configuration changes necessary to meet these controls.
-- Configure the host infrastructure provider or compliance service to
-  continuously monitor and / or enforce the status of your configuration.
-- For Example: Encryption requirements call for all systems storing federal
-  information to encrypt that information. In response to this control you
-  might:
-  - Configure encryption at rest on all storage services that may handle federal
-    information
-  - Create a configuration enforcement policy to prevent deployment of
-    non-encrypted storage services
-  - Configure an enforcing system to continually enforce encryption on all
-    storage services
+The proposed FedRAMP 20x Phase One Key Security Indicators have been published for public comment in RFC-0006. The comment period will be open for 30 days. FedRAMP expects to rapidly integrate comments to formalize final Key Security Indicators and begin accepting Phase One pilot submissions for review within a week of finishing the RFC. Pilot submissions will be reviewed in order of submission so participation during the public comment period is encouraged.
 
-The output from a FedRAMP 20x assessment process includes materials produced for
-the Documentation requirements and output from the initial execution of
-Automated Validations. Continuous monitoring is performed by ensuring the
-process used for implementing automated validations is executed continuously and
-any deviations are addressed in a timely manner.
+After Phase One Key Security Indicators are finalized, pilot participants can submit a machine readable package that demonstrates a continuous, automated validation approach for a significant portion of the Key Security Indicators. These packages should include at least:
 
-After an assessment is completed, the cloud service offering will receive a
-score with a focus on the areas of Confidentiality, Integrity, and Availability
-of federal information. Agencies will review this information to compare vendors
-to make risk assessments of the cloud service prior to adoption.
+- Summary of the cloud service provider and cloud service offering
+- Summary of and rationale for the approach used to generate the submission
+- Summary from a 3PAO explaining the approach used for assessment
+- Machine-readable assessment and validation package with the status of each KSI Validation, including supporting evidence and integrated verification by a 3PAO
+- Data definition or data schema that explains the machine-readable package
+- Proposal or prototype for continuously reporting on a significant percentage of KSI Validations
 
-## How It Helps Agencies {#agencies}
+_Note: Details of the requested package may change during the initial pilot based on feedback._
 
-Agencies will be able to rapidly adopt cloud services and make informed
-decisions based on their confidentiality, integrity, and availability needs via
-a comparison tool that allows them to rapidly match with the services that meet
-their security expectations. Instead of re-using FedRAMP authorizations made by
-other agency sponsors, agency teams will be able to ATO cloud services that meet
-FedRAMP 20x requirements in days.
+This pilot is intended to showcase innovative approaches that meet FedRAMP security requirements and can be reused by others. Pilot submissions should be showcased for the public to the greatest extent possible. If a cloud service provider wishes the assessment and validation package to remain confidential, they should showcase an alternative version using realistic non-sensitive data.
+
+FedRAMP encourages innovative solutions that use a first principles approach. Pilot participants should not feel constrained by existing technologies or processes. 
+
+For consideration or reference, the FedRAMP team proposes one example for how a cloud service provider might approach participation below.
+
+## Example Participant Experience {#example}
+
+### Step One: Key Security Indicators and Validations
+
+A pilot participant might begin by reviewing the most updated version of the FedRAMP Key Security Indicators. Each KSI defines a security objective and lists multiple KSI Validations which, when met, demonstrate that a system has achieved the security objective. A pilot participant would provide a true/false assertion to each KSI Validation.
+
+### Step Two: Validation Evidence
+
+A pilot participant might provide evidence to support each KSI Validation with an assertion of “true”. For this initial pilot, there is no prescribed list of acceptable evidence, and supporting evidence can be provided in many ways. For example:
+
+- The host infrastructure or a compliance service provides a technical attestation that an offering is configured in a way that meets a KSI Validation.
+- Materials for an existing SOC 2 audit demonstrates compliance with the KSI Verification
+- A 3PAO assesses the service offering and validates that the KSI Verification is implemented
+- Another method proposed by the cloud service provider 
+
+### Step Three: Automation and Machine Readable Data Requirements
+
+A pilot participant might assemble a machine-readable package that addresses each Key Security Indicator Validation. This package would include the KSI Validation assertions from Step One, and their associated evidence from Step Two. This package would be submitted in a machine readable format of a pilot participant’s choosing and design, with the following criteria:
+
+- The machine-readable package can be regenerated on demand.
+- The package includes a data definition or data schema explaining how the submission maps to the KSI elements
+
+### Step Four: Continuous Reporting Indication
+
+Pilot submissions might indicate which of their KSI Validations can be reported on continuously. This involves identifying which KSI Validation Evidence is generated by an automated process that executes continuously without human intervention.
+
+Preferably, this indication would appear in the machine-readable data format, and would include meta-data of where and when the evidence was collected.
+
+## Step Five: 3PAO Review
+
+All 20x packages would be reviewed by a 3PAO prior to submission.
+
+### Step Six: Prototype for Continuous Reporting
+
+Pilot participants might use the indications developed in step four to develop a proposal or prototype for continuously reporting on those KSI Validations. This could look like:
+
+- Designing an API interface that serves the latest security status of the system
+- Deploying a static URL endpoint that can serve the latest security status of a system
+
+### Step Seven: Red Team Exercise
+
+After submission of the pilot package, the FedRAMP PMO may request that a pilot participant complete a red team exercise. In this case, a CSP will be notified in advance with more details.
+
+
+
