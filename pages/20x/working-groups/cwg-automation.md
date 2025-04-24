@@ -1,7 +1,7 @@
 ---
 layout: leftnav-rightlink
-title: Automation Community Working Group
-tab-title: Automation Community Working Groups
+title: Automating Assessments Community Working Group
+tab-title: Automating Assessments Working Groups
 permalink: /20x/working-groups/automation/
 redirect_from: /working-groups/automation/
 body-class: page-training
