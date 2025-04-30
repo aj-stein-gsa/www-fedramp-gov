@@ -111,7 +111,7 @@ their own risk assessment.
 ### How can I be sure to get notified of FedRAMP 20x changes? {#notified}
 
 FedRAMP believes in transparency and open collaboration. Be sure to follow along
-with our progress on GitHub [link]() and through our Change Log on
+with [our working groups]({{site.baseurl}}/20x/working-groups) and through our Change Log on
 [fedramp.gov/changelog]({{site.baseurl}}/changelog).
 
 ### Will new cloud service providers need an agency “sponsor”? {#sponsor}
